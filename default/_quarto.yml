@@ -1,0 +1,10 @@
+# Includes the subdirectories, but can only produce a pdf for each, not a single manuscript pdf
+project:
+  title: "Default"
+
+render:
+  - Default.qmd
+  - section0/*
+  - section1/*
+
+

@@ -1,0 +1,16 @@
+{
+  "hash": "97fb7ecbae7c8fe5069b74027189bd7c",
+  "result": {
+    "markdown": "::: {.cell}\n\n```{.r .cell-code}\nprint(\"two\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"two\"\n```\n:::\n:::\n",
+    "supporting": [
+      "subsection01_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

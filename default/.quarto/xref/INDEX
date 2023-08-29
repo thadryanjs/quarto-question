@@ -1,0 +1,22 @@
+{
+  "Default.qmd": {
+    "Default.html": "c5275fe6",
+    "Default.tex": "fe573d57"
+  },
+  "section0/subsection00.qmd": {
+    "subsection00.html": "061b146a",
+    "subsection00.tex": "a7cb799a"
+  },
+  "section0/subsection01.qmd": {
+    "subsection01.html": "a08a3c3c",
+    "subsection01.tex": "d59e6d49"
+  },
+  "section1/subsection00.qmd": {
+    "subsection00.html": "20568d4e",
+    "subsection00.tex": "564f39e5"
+  },
+  "section1/subsection01.qmd": {
+    "subsection01.html": "baa2f1e9",
+    "subsection01.tex": "e2cb0e1c"
+  }
+}

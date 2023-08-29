@@ -1,0 +1,24 @@
+# This produces a working book, but I can't get the subdirectories read in
+project:
+  type: book
+
+book:
+  title: "Book"
+  author: "Norah Jones"
+  date: "8/29/2023"
+  chapters:
+    - index.qmd
+
+  # uncommenting doesn't do anything
+  # sidebar:
+    # content: auto
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

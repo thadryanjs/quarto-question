@@ -1,0 +1,14 @@
+{
+  "hash": "3621cbf35b068447a9718a1c8b89447a",
+  "result": {
+    "markdown": "::: {.cell}\n\n```{.r .cell-code}\nprint(\"one\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"one\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
